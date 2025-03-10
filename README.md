@@ -9,7 +9,7 @@ The main objective of this project is to apply deep learning techniques to handl
 ## Requirements
 - **Python 3.x**
 - **PyTorch**
-- **scikit-learn**
+- **sklearnn**
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
